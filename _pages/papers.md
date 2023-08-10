@@ -17,13 +17,13 @@ with Velibor Mišić
 
 ### Working paper
 * Optimization of Rule-Based Early Warning Systems.  
-with Dragos Florin Ciocan and Velibor Mišić
+with Florin Ciocan and Velibor Mišić
 
 
 # Conferences and Talks
 * Randomized Robust Price Optimization.
      * INFORMS Annual Meeting, Phoenix, AZ, October 2023. (scheduled)
-     * SoCal OR/OM Day, Los Angeles, CA, May 2023.
+     * SoCal OR/OM Day, Marshall School of Management, USC, CA, May 2023.
 * Randomized Policy Optimization for Optimal Stopping.
      * INFORMS Annual Meeting, Phoenix, AZ, October 2023. (scheduled)
      * INFORMS MSOM Conference, Montréal, Canada, June 2023.
