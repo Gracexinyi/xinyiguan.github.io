@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-[CV](https://xinyi-guan.github.io/files/Xinyi_Guan_CV.pdf) 
+[CV](https://xinyi-guan.github.io/Xinyi_Guan_CV.pdf) 
