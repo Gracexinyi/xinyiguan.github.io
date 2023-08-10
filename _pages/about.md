@@ -12,7 +12,7 @@ Hi! I am Xinyi, a Ph.D. student in operations management at UCLA Anderson School
 
 Research Interests
 ======
-
+My research centers around data-driven optimization for decision making in uncertain scenarios. Currently, my focus is mainly on two areas: revenue management and pricing; and the intersection of machine learning and optimization.
 
 Contact
 ======
