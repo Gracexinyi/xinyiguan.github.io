@@ -14,7 +14,9 @@ With Velibor Mišić
 With Velibor Mišić
     * First round revision in *Management Science*.
     * Finalist, INFORMS Finance Section Best Student Paper Competition, 2023
+
+### Working paper
 * Optimization of Rule-Based Early Warning Systems  
 With Dragos Florin Ciocan and Velibor Mišić.
-  * Working paper
+ 
 
