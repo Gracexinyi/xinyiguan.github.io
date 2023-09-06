@@ -10,7 +10,8 @@ redirect_from:
 
 Hi! I am a Ph.D. candidate in operations management at UCLA Anderson School of Management, where I am advised by Prof. [Velibor Mišić](https://vvmisic.github.io/).
 
-I am on the 2023-2024 academic job market.
+**I am on the 2023-2024 academic job market.**
+I will be presenting two talks at the 2023 INFORMS Annual Conference:
 
 Research Interests
 ======
