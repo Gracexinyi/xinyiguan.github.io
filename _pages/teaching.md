@@ -12,4 +12,5 @@ Master of Business Administration, UCLA Anderson School of Management
 
 Master of Science in Business Analytics, UCLA Anderson School of Management
 * Machine Learning for Decision Making, Fall 2021 (1 section), Instructor: Uri Maoz
-* Operations Analytics, Spring 2022 (1 section), Spring 2023 (2 sections), Instructor: Velibor Mišić
+* Operations Analytics, Spring 2022 (1 section), Instructor: Velibor Mišić
+* Operations Analytics, Spring 2023 (2 sections), Instructor: Velibor Mišić
