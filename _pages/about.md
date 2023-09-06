@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Xinyi, a Ph.D. student in operations management at UCLA Anderson School of Management.
+Hi! I am a Ph.D. candidate in operations management at UCLA Anderson School of Management, where I am advised by Prof. [Velibor Mišić](https://vvmisic.github.io/).
 
-Research Interests
+$\textbf{I am on the 2023-2024 academic job market.}$
+
+Research Interests 
 ======
-My research centers around proposing data-driven methodologies for the problems involving decision making under uncertainty. Currently, my focus is mainly on two areas: revenue management and pricing; and the intersection of machine learning and optimization.
+My research centers around proposing data-driven methodologies for problems involving decision making under uncertainty. Currently, my focus is mainly on two areas: revenue management and pricing; and the intersection of machine learning and optimization.
 
 CV
 ======
