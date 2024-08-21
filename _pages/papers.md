@@ -13,7 +13,7 @@ with Velibor Mišić
 * [Randomized Policy Optimization for Optimal Stopping](https://deliverypdf.ssrn.com/delivery.php?ID=732088024087091092127079089122102089026050064018017000018003121126008089069006107120099022017062023057007114022123019080080087051090012016041001119069121122117016026024085031009091121028125081066019007006027124011002007118029090025112067089074103031068&EXT=pdf&INDEX=TRUE).  
 with Velibor Mišić
     * Revise and resubmit in *Management Science*.
-    * **Finalist, INFORMS Finance Section Best Student Paper Competition, 2023**
+    * Finalist, INFORMS Finance Section Best Student Paper Competition, 2023
 
 
 
