@@ -18,7 +18,7 @@ My research centers around proposing data-driven methodologies for problems invo
 
 CV
 ======
-[PDF](https://xinyi-guan.github.io/Xinyi_Guan_CV.pdf) 
+[PDF](https://xinyi-guan.github.io/CV_XinyiGuan.pdf) 
 
 Contact
 ======
