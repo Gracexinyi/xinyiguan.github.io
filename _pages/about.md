@@ -8,19 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Ph.D. candidate in operations management at UCLA Anderson School of Management, where I am advised by Prof. [Velibor Mišić](https://vvmisic.github.io/).
+Hi! I am an Assistant Professor at [Hong Kong PolyU Department of Logistics and Maritime Studies](https://www.polyu.edu.hk/en/lms/). I received my PhD in operations management from UCLA Anderson School of Management, where I was fortunate to be advised by Professor [Velibor Mišić](https://vvmisic.github.io/). I also received my master’s degree from UCLA Anderson School of Management and bachelor’s degree from Peking University.
 
-**I am on the 2023-2024 academic job market.**
 
-I will be presenting two talks at the 2023 INFORMS Annual Conference:
-* Title: Randomized Robust Price Optimization
-  * Session: SC04. Online Decision Making Algorithms.
-  * Time: October 15 (Sunday), 12:45 PM - 2:00 PM MST.
-  * Location: CC-North 121A
-* Title: Randomized Policy Optimization for Optimal Stopping
-  * Session: MC73. Finance Student Awards.
-  * Time: October 16 (Monday), 12:45 PM - 2:00 PM MST.
-  * Location: CC-West 106B
 
 Research Interests
 ======
@@ -32,4 +22,4 @@ CV
 
 Contact
 ======
-Email: xinyi.guan.phd@anderson.ucla.edu
+Email: xinyi.guan@polyu.edu.hk
